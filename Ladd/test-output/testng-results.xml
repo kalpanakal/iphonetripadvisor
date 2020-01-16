@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[clubmahindra]]>
+    </line>
+    <line>
+      <![CDATA[nice hotel]]>
+    </line>
+    <line>
+      <![CDATA[nice hotel]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57867" started-at="2020-01-16T13:19:16Z" finished-at="2020-01-16T13:20:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57867" started-at="2020-01-16T13:19:16Z" finished-at="2020-01-16T13:20:14Z">
+      <class name="assignment2Test.TripadvisorTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:assignment2Test.TripadvisorTest@27efef64]" name="openBrowser" is-config="true" duration-ms="5960" started-at="2020-01-16T13:19:16Z" finished-at="2020-01-16T13:19:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyingTripAdvisor()[pri:0, instance:assignment2Test.TripadvisorTest@27efef64]" name="verifyingTripAdvisor" duration-ms="50452" started-at="2020-01-16T13:19:22Z" finished-at="2020-01-16T13:20:12Z">
+          <reporter-output>
+            <line>
+              <![CDATA[clubmahindra]]>
+            </line>
+            <line>
+              <![CDATA[nice hotel]]>
+            </line>
+            <line>
+              <![CDATA[nice hotel]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyingTripAdvisor -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:assignment2Test.TripadvisorTest@27efef64]" name="configAC" is-config="true" duration-ms="1404" started-at="2020-01-16T13:20:12Z" finished-at="2020-01-16T13:20:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- assignment2Test.TripadvisorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
